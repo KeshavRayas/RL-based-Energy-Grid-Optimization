@@ -1,6 +1,3 @@
-Here is a polished, visually appealing **GitHub README** for your project, fully aligned with your implementation and citing the provided files.
-It is written in a professional, modern open-source style and includes badges, diagrams (text-based), installation, usage, methodology, results, and references.
-
 ---
 
 # ⚡ Reinforcement Learning for Energy Grid Optimization
