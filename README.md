@@ -1,5 +1,3 @@
----
-
 # ⚡ Reinforcement Learning for Energy Grid Optimization
 
 ### **Adaptive Control of Renewable-Rich Power Systems using PPO (Stable-Baselines3)**
