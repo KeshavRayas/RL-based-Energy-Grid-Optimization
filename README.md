@@ -193,8 +193,5 @@ The project adopts a multi-layer architecture:
 * Reward analysis
 * Behavior over 500+ timesteps
 * Visualization
-
-Full methodology described in the project paper:
- 
 ---
 
